@@ -38,3 +38,6 @@ import os
 import glob
 import warnings
 warnings.filterwarnings("ignore")
+
+def name(nm='Risheedhar'):
+    return(nm)
