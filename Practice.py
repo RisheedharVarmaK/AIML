@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
-import AIML as t
+from AIML import name
 
-print(t.name())
+print(name())
+print(name('Varma'))
 
